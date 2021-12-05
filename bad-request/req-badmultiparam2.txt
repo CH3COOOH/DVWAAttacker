@@ -1,0 +1,18 @@
+POST /login.php HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Host: 172.20.1.251
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:12.0) Gecko/20100101 Firefox/12.0
+Content-Type: multipart/form-data; boundary=gc0p4Jq0M2Yt08jU534c0p
+Content-Length: 228
+
+--gc0p4Jq0M2Yt08jU534c0p
+Content-Disposition: form-data; name="part-1"
+
+RFC 2046
+--gc0p4Jq0M2Yt08jU534c0p
+Content-Disposition: form-data
+
+A boundary follows immediately after request headers.
+--gc0p4Jq0M2Yt08jU534c0p--
